@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5941941465579c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6b470d1d62cccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb623fa855f9ef1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/20_LiteratureNote/ＭＢ-最速でおしゃれに見せる方法 【電子限定特典付き】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ＭＢ-最速でおしゃれに見せる方法 【電子限定特典付き】"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "104f1e9b0c2d833c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6021b861c9da648d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a80982c93c7dc823",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c468762c887347f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "261fbca417c5a84b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed30eae11f7d084b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd654286f415e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c0a9c993315545",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "5123f7b10f630034",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d7da12372ba5d036",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "ab2cd5ec4d07d337",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "f1b0e55d656988d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Welcomeのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "line-notes-sync:Sync LINE messages": false
+    }
+  },
+  "active": "cb623fa855f9ef1b",
+  "lastOpenFiles": [
+    "LINE/2025-12-07-590975309923221832.md",
+    "Zettelkasten/20_LiteratureNote/ＭＢ-最速でおしゃれに見せる方法 【電子限定特典付き】.md",
+    "LINE",
+    "Tasks/inbox.md",
+    "Tasks",
+    "Zettelkasten/20_LiteratureNote/katonobo-個人開発で毎月1万円を稼ぐコツ.md",
+    "Zettelkasten/20_LiteratureNote/KANTAN社-【2025年2月最新シラバス対応】完全攻略 生成AIパスポート 実践問題集.md",
+    "Zettelkasten/20_LiteratureNote/Jeg-ドーパミン復活早起き法【対話版】.md",
+    "Zettelkasten/20_LiteratureNote/Jeg-この通り進めば必ず叶う 願望実現への最短ルート案内.md",
+    "Zettelkasten/20_LiteratureNote/Jeg-Dopamine Resurrection Abstinence Act.md",
+    "Zettelkasten/20_LiteratureNote/Yoshi-うつ病を治した禁欲の魔法オナ禁エリクサー.md",
+    "Zettelkasten/20_LiteratureNote/アーノルド・ベネット-最強の生き方.md",
+    "Zettelkasten/20_LiteratureNote/うつつびと-NO MORE FAP オナ禁講座 30日継続プログラム.md",
+    "Zettelkasten/20_LiteratureNote/れおん-ドーパミンハック.md",
+    "Zettelkasten/20_LiteratureNote/孝-読書する人だけがたどり着ける場所.md",
+    "Zettelkasten/20_LiteratureNote/翔太-生成AIで世界はこう変わる.md",
+    "Zettelkasten/20_LiteratureNote/祐-ヤバい集中力　1日ブッ通しでアタマが冴えわたる神ライフハック45.md",
+    "Zettelkasten/20_LiteratureNote/山崎元-大橋弘祐-超改訂版　難しいことはわかりませんが、お金の増やし方を教えてください！.md",
+    "Zettelkasten/20_LiteratureNote/ひすいこたろう-あした死ぬかもよ？ 人生最後の日に笑って死ねる27の質問 名言セラピー ひすいこたろうのベストセラー本.md",
+    "Zettelkasten/20_LiteratureNote/健志-ボクがエロビデオを捨てた日.md",
+    "Zettelkasten/20_LiteratureNote/ほっしー-和田秀樹-うつを治す努力をしてきたので、効果と難易度でマッピングしてみた.md",
+    "Zettelkasten/20_LiteratureNote/水野敬也-LOVE理論.md",
+    "Zettelkasten/20_LiteratureNote/克美-「このまま人生が終わったら悔いが残る」と思ったら読む本.md",
+    "Zettelkasten/20_LiteratureNote/いち華-人に言えない男女の悩みをすべて解決する　おとな性教育.md",
+    "Zettelkasten/20_LiteratureNote/尾原和啓-モチベーション革命　稼ぐために働きたくない世代の解体書.md",
+    "Zettelkasten/20_LiteratureNote/仁平-世界一やさしい「やりたいこと」の見つけ方　人生のモヤモヤから解放される自己理解メソッド.md",
+    "Zettelkasten/20_LiteratureNote/鈴木祐-最高の体調　進化医学のアプローチで、過去最高のコンディションを実現する方法.md",
+    "Zettelkasten/20_LiteratureNote/今井孝-誰でもできるのに９割の人が気づいていない、お金の生み出し方.md"
+  ]
+}
