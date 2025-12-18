@@ -1,0 +1,32 @@
+# Obsidian設定（個人設定は除外、共有設定は含める）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# プラグインの個人設定
+.obsidian/plugins/*/data.json
+
+# 一時ファイル
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大きなメディアファイル（必要に応じて調整）
+# *.mp4
+# *.mov
+# *.avi
+
+# システムファイル
+.DS_Store
+Thumbs.db
+*.lnk
+
+# エディタ設定
+.vscode/
+.idea/
+
+# ログファイル
+*.log

@@ -1,0 +1,19 @@
+# Obsidian設定ファイル
+.obsidian/
+.obsidian/**/*
+
+# 一時ファイル
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# プラグインのビルドファイル
+.obsidian/plugins/**/*.js.map
+
+# キャッシュファイル
+.cache/
+*.cache
+
+# ログファイル
+*.log
