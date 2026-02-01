@@ -12,16 +12,6 @@ description: >-
 
 ---
 
-## トリガー
-
-以下のような発言で起動する:
-- 「今日の記録」「日報」「記録して」
-- 「今日は過去問道場で○問やった」
-- 「学習記録をつけて」
-- 「今日の分を記録」
-
----
-
 ## 実行フロー
 
 ### Step 1: 学習内容のヒアリング
@@ -39,12 +29,12 @@ description: >-
 ```
 
 - ユーザーが最初のメッセージで既に内容を伝えている場合は、追加質問を最小限にする
-- 「おまかせ」と言われたら、`learning_progress.md` のセッション履歴から推測して記録
+- 「おまかせ」と言われたら、`learning/進捗ログ.md` のセッション履歴から推測して記録
 
 ### Step 2: 学習記録ファイルの作成・更新
 
-1. `学習記録/YYYY-MM-DD.md` が既に存在するか確認
-   - **存在しない場合**: `学習記録/_テンプレート.md` をベースに新規作成
+1. `learning/学習記録/YYYY-MM-DD.md` が既に存在するか確認
+   - **存在しない場合**: `learning/学習記録/_テンプレート.md` をベースに新規作成
    - **存在する場合**: 既存ファイルに追記（同日に複数回記録可能）
 
 2. テンプレートの `{{date}}` を当日の日付に置換
@@ -58,7 +48,7 @@ description: >-
 
 ### Step 3: memory_logs.md に追記
 
-`docs/memory_logs.md` の「重要な文脈・マイルストーン」セクションに、日付付きで要点を追記:
+`learning/memory_logs.md` の「重要な文脈・マイルストーン」セクションに、日付付きで要点を追記:
 
 ```markdown
 ### YYYY-MM-DD
@@ -66,9 +56,9 @@ description: >-
 - [特筆すべき気づきやつまずき]
 ```
 
-### Step 4: learning_progress.md の更新
+### Step 4: learning/進捗ログ.md の更新
 
-`learning_progress.md` の以下を更新:
+`learning/進捗ログ.md` の以下を更新:
 - `last_updated`: 現在日時
 - `days_remaining`: 再計算（試験日: 2026-02-22）
 - `total_study_time_minutes`: 学習時間を加算
@@ -93,7 +83,7 @@ description: >-
 変更されたファイルをまとめてコミット & プッシュ:
 
 ```bash
-git add 学習記録/YYYY-MM-DD.md docs/memory_logs.md learning_progress.md
+git add learning/学習記録/YYYY-MM-DD.md learning/memory_logs.md learning/進捗ログ.md
 git commit -m "YYYY-MM-DD 学習記録を追加"
 git push
 ```
@@ -107,7 +97,7 @@ git push
 ユーザーが「Claude.aiで勉強した内容も含めて」と言った場合:
 1. Claude.aiでの学習内容もヒアリング
 2. 学習記録の「使用教材」に「Claude.ai（外出先学習）」を追加
-3. `docs/memory_logs.md` に「Claude.ai連携: [内容]」と記録
+3. `learning/memory_logs.md` に「Claude.ai連携: [内容]」と記録
 
 ### 問題ファイルの更新が必要な場合
 
@@ -117,8 +107,7 @@ git push
 
 ---
 
-## 説明ルール（共通）
+## 注意事項
 
-- 専門用語を避け、中学生でも理解できる言葉で
 - 記録作業を最小限の対話で完了させる（スピード重視）
-- 「書かない学習」の精神に合わせ、ユーザーの入力負担を極限まで減らす
+- ユーザーの入力負担を極限まで減らす

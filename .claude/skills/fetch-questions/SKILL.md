@@ -12,16 +12,6 @@ description: >-
 
 ---
 
-## トリガー
-
-以下のような発言で起動する:
-- 「過去問取得 R06 問1-20」
-- 「R05の科目A全部取って」
-- 「令和6年の問題を追加して」
-- 「問題を増やしたい」
-
----
-
 ## コマンド変換ルール
 
 ユーザーの自然言語入力を `scripts/fetch_question.py` のコマンドに変換する。
@@ -85,7 +75,7 @@ description: >-
 python scripts/fetch_question.py [年度] [問題番号/範囲/all]
 ```
 
-- 作業ディレクトリは `D:\FEvault`（リポジトリルート）
+- 作業ディレクトリは `D:\My vault`（リポジトリルート）
 - Windows環境では `python`（`python3` ではなく）を使用
 
 ### Step 4: 結果の報告
