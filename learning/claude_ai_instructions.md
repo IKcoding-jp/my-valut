@@ -1,3 +1,11 @@
+---
+created: 2026-01-22
+updated: 2026-02-01
+tags:
+  - learning/基本情報
+  - status/進行中
+---
+
 # Claude.ai 用カスタム指示（FE学習サポート v2）
 
 > ⚠️ **このファイルは `CLAUDE.md` の簡潔版（外出先向け）です。**
