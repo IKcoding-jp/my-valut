@@ -1,0 +1,45 @@
+---
+id: H23T_KA_Q39
+year: H23特
+kamoku: A
+number: 39
+type: 混合
+field: テクノロジ系 » ネットワーク »通信プロトコル
+difficulty: 3
+status: 未学習
+source: "出典：平成23年特別 基本情報技術者試験 科目A 問39"
+source_url: "https://www.fe-siken.com/kakomon/23_toku/q39.html"
+last_attempt: null
+confidence_history: []
+result_history: []
+time_spent_seconds: []
+---
+
+## 問題
+DHCPの説明として，適切なものはどれか。
+
+## 選択肢
+- ア: IPアドレスの設定を自動化するためのプロトコルである。
+- イ: ディレクトリサービスにアクセスするためのプロトコルである。
+- ウ: 電子メールを転送するためのプロトコルである。
+- エ: プライベートIPアドレスをグローバルIPアドレスに変換するためのプロトコルである。
+
+## 正解
+ア
+
+## 解説
+DHCP
+(Dynamic Host Configuration Protocol)は、TCP/IPにおいて、ネットワークに接続するクライアントのIPアドレスの割り当てを自動的に行うプロトコルです。
+DHCPを動作させておくと、ネットワークに接続したクライアントにIPアドレス、サブネットマスク、DNSサーバのアドレス、デフォルトゲートウェイなどが自動で設定されるため、手動でこれらの情報を設定するよりもネットワーク管理の負担が軽減されます。また、使い終わったIPアドレスは自動で回収され、別の端末に再割当てが行われるのでIPアドレス資源の有効活用が期待できます。
+
+### 各選択肢の解説
+- ア: 正しい。DHCPの説明です。
+- イ: LDAP(Lightweight Directory Access Protocol)の説明です。
+- ウ: SMTPの説明です。
+- エ: NATまたはNAPTの説明です。
+
+### 関連概念
+- [[DHCP]]
+- [[TCP/IP]]
+- [[ネットワーク]]
+- [[プロトコル]]

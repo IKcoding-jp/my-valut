@@ -1,0 +1,33 @@
+---
+id: H21A_KA_Q25
+year: H21秋
+kamoku: A
+number: 25
+type: 混合
+field: テクノロジ系 » ハードウェア »ハードウェア
+difficulty: 3
+status: 未学習
+source: "出典：平成21年秋期 基本情報技術者試験 科目A 問25"
+source_url: "https://www.fe-siken.com/kakomon/21_aki/q25.html"
+last_attempt: null
+confidence_history: []
+result_history: []
+time_spent_seconds: []
+---
+
+## 問題
+図は全加算器を表す論理回路である。図中のxに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値はどれか。![25_1.png/image-size:135×52](https://www.fe-siken.com/kakomon/21_aki/img/25_1.png)
+
+## 選択肢
+
+
+## 正解
+ウ
+
+## 解説
+全加算器
+は、2進数の加算を行う論理回路で、2進数の1桁分の加算を下位からの桁上がりを含めて計算できます。図中の出力cは「Carry out」の略で桁上がり数を示し、sは「Sum」の略で合計を表しています。
+3つの入力値（x=1、y=0、z=1）を合計すると2です。10進数では10で1つ上の桁に繰り上がるように2進数では2で1つ上の桁に繰り上がるので、10進数の 2 を2進数で表すと 10 となります。よって、c(けた上げ数)には1、s(和)は0が出力されます。
+したがって「ウ」の組合せが適切です。
+
+### 関連概念
