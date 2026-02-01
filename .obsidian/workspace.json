@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6b470d1d62cccc",
+        "id": "5a1a7077c1c7ba88",
         "type": "tabs",
         "children": [
           {
-            "id": "cb623fa855f9ef1b",
+            "id": "86d6c9f866faaf2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "LINE/2025-12-12-591686895776563861.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.5"
               },
-              "icon": "lucide-file",
-              "title": "2025-12-12-591686895776563861"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
         ]
@@ -182,8 +180,26 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "cb623fa855f9ef1b",
+  "active": "86d6c9f866faaf2e",
   "lastOpenFiles": [
+    "資格同時学習の進め方.md",
+    "資格同時学習の進め方 1.md",
+    "今日の１日の計画.md",
+    "タスク.md",
+    "お薬飲み忘れ防止管理アプリ　おくすりずむ.md",
+    "アイデア.md",
+    "LINE/2025-12-18-592565220900340604.md",
+    "LINE/2025-12-18-592565279100502393.md",
+    "LINE/2025-12-19-592712236204556939.md",
+    "LINE/2025-12-19-592712250482492166.md",
+    "見た作品・ゲームリスト.md",
+    "作品リスト.md",
+    "見たい作品リスト.md",
+    "メモ.md",
+    "やりたいこと.md",
+    "私の情報.md",
+    "読書感想_トップ5%社員の読書術.md",
+    "LINE",
     "04_Resources/ai-prompts-collection.md",
     "00_Inbox/私の情報.md",
     "04_Resources/技術書リスト.md",
@@ -193,23 +209,6 @@
     "LINE/2025-12-12-591710943030018157.md",
     "LINE/2025-12-12-591710943030018157_1.md",
     "LINE/2025-12-12-591686895776563861.md",
-    "Tasks/inbox.md",
-    "プロンプト集.md",
-    "02_Projects/エンジニア転職ロードマップ.md",
-    "01_Clippings/Kindle Highlight/翔大-AIのド素人ですが、10年後も仕事とお金に困らない方法を教えて下さい！　最悪の未来でも自分だけが助かる本.md",
-    "01_Clippings/Kindle Highlight/翔太-生成AIで世界はこう変わる.md",
-    "01_Clippings/Kindle Highlight/栞奈-生成AIパスポート 模擬問題集500問【完全対策】.md",
-    "01_Clippings/Kindle Highlight/鈴木祐-最高の体調　進化医学のアプローチで、過去最高のコンディションを実現する方法.md",
-    "01_Clippings/Kindle Highlight/祐-ヤバい集中力　1日ブッ通しでアタマが冴えわたる神ライフハック45.md",
-    "01_Clippings/Kindle Highlight/茂久-人は話し方が９割.md",
-    "01_Clippings/Kindle Highlight/茂久-人は聞き方が９割.md",
-    "01_Clippings/Kindle Highlight/尾原和啓-モチベーション革命　稼ぐために働きたくない世代の解体書.md",
-    "01_Clippings/Kindle Highlight/繁智（モゲ）-キミは、幸せな「お金持ち」になる方法を知らないだけなんだ.md",
-    "01_Clippings/Kindle Highlight/中島聡-なぜ、あなたの仕事は終わらないのか スピードは最強の武器である.md",
-    "01_Clippings/Kindle Highlight/拓真-「ポルノ断ち」こそ最強メソッドである ー オナ禁と脳科学で生産性・恋愛・人間関係を取り戻す方法.md",
-    "01_Clippings/Kindle Highlight/善一-ポルノ脳.md",
-    "01_Clippings/Kindle Highlight/青戸一之-あなたの人生をダメにする勉強法　「ドラゴン桜」式最強タイパ勉強法で結果が変わる.md",
-    "01_Clippings/Kindle Highlight/生成AI活用普及協会（GUGA）-GUGA公認 改訂版 生成AIパスポート テキスト＆問題集.md",
     "04_Resources/templates",
     "05_Archive",
     "04_Resources",
@@ -218,7 +217,6 @@
     "00_Inbox",
     "Tasks/archive",
     "Tasks/projects",
-    "Zettelkasten/40_MOC",
-    "Zettelkasten/30_FleetingNote"
+    "Zettelkasten/40_MOC"
   ]
 }
