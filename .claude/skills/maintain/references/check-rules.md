@@ -70,11 +70,11 @@ projects/配下のすべてのサブディレクトリに対して:
 
 ### 1-5. 学習記録ファイル命名規則
 
-**ルール**: `learning/学習記録/YYYY-MM-DD.md`
+**ルール**: `learning/基本情報技術者/学習記録/YYYY-MM-DD.md`
 
 **チェック方法**:
 ```
-learning/学習記録/配下のすべての*.mdファイル:
+learning/基本情報技術者/学習記録/配下のすべての*.mdファイル:
 - パターン: ^\d{4}-\d{2}-\d{2}\.md$
 - 違反: 2026-02-1.md (0パディングなし)
 - 違反: 2026_02_01.md (ハイフン以外の区切り文字)
@@ -86,14 +86,14 @@ learning/学習記録/配下のすべての*.mdファイル:
 
 ### 1-6. 過去問ファイル命名規則
 
-**ルール**: `learning/questions/[科目]/[分野]/[ID].md`
+**ルール**: `learning/基本情報技術者/questions/[科目]/[分野]/[ID].md`
 
 **チェック方法**:
 ```
-learning/questions/配下のすべての*.mdファイル:
+learning/基本情報技術者/questions/配下のすべての*.mdファイル:
 - 想定パス深さ: 3階層（科目/分野/ID.md）
-- 違反: learning/questions/Q001.md (分野フォルダなし)
-- 違反: learning/questions/kamoku_a/Q001.md (分野フォルダなし)
+- 違反: learning/基本情報技術者/questions/Q001.md (分野フォルダなし)
+- 違反: learning/基本情報技術者/questions/kamoku_a/Q001.md (分野フォルダなし)
 ```
 
 **修正案**: 自動分類ロジック（frontmatterの科目・分野情報から判定）
@@ -153,7 +153,7 @@ journal/YYYY/MM/配下のすべての*.mdファイル:
 
 ---
 
-### 2-3. learning/questions/ 配下のファイル
+### 2-3. learning/基本情報技術者/questions/ 配下のファイル
 
 **必須フィールド**: `exam_id`, `question_id`, `topic`, `tags`, `correct_answer`, `difficulty`, `status`
 
@@ -161,7 +161,7 @@ journal/YYYY/MM/配下のすべての*.mdファイル:
 
 **チェック方法**:
 ```
-learning/questions/配下のすべての*.mdファイル:
+learning/基本情報技術者/questions/配下のすべての*.mdファイル:
 - frontmatterが存在
 - 必須フィールドがすべて定義されているか
 - statusが指定リスト内か（not_attempted/attempted/struggled/mastered）
@@ -171,7 +171,7 @@ learning/questions/配下のすべての*.mdファイル:
 
 ---
 
-### 2-4. learning/学習記録/ 配下のファイル
+### 2-4. learning/基本情報技術者/学習記録/ 配下のファイル
 
 **必須フィールド**: `date`, `tags`, `session_count`
 
@@ -179,7 +179,7 @@ learning/questions/配下のすべての*.mdファイル:
 
 **チェック方法**:
 ```
-learning/学習記録/配下のすべての*.mdファイル:
+learning/基本情報技術者/学習記録/配下のすべての*.mdファイル:
 - frontmatterが存在
 - dateフィールドが存在し、ファイル名と整合
 ```
@@ -236,7 +236,7 @@ Vault全体のすべての*.mdファイルを走査:
 - `profile/` ファイル間：相互参照（最小3リンク以上）
 - `CLAUDE.md` → 各領域への参照：最低 XX リンク以上
 - 学習関連ファイル → memory_logs.md への参照：月次以上
-- learning/学習計画書_資格同時取得.md → learning/進捗ログ.md への参照：必須
+- learning/基本情報技術者/学習計画表.md → learning/基本情報技術者/進捗ログ.md への参照：必須
 
 **チェック方法**:
 ```
@@ -358,8 +358,8 @@ Vault全体のすべての*.mdファイルを走査:
 ### 6-2. learning/ 内の重複情報
 
 **チェック対象**:
-- `学習計画書_資格同時取得.md` ↔ `進捗ログ.md` （週別スケジュール）
-- `学習計画書_資格同時取得.md` ↔ `memory_logs.md` （マイルストーン）
+- `学習計画表.md` ↔ `進捗ログ.md` （週別スケジュール）
+- `学習計画表.md` ↔ `memory_logs.md` （マイルストーン）
 
 **チェック方法**:
 ```
@@ -395,7 +395,7 @@ journal/YYYY/MM/YYYY-MM-DD.md について:
 
 ### 7-2. 学習記録テンプレート
 
-**テンプレートファイル**: `learning/学習記録/_template_daily.md` (存在する場合)
+**テンプレートファイル**: `learning/基本情報技術者/学習記録/_template_daily.md` (存在する場合)
 
 **チェック項目**: 同上
 
@@ -450,7 +450,7 @@ journal/配下:
 ### 10-1. 役割分担の確認
 
 **正しい配置**:
-- `learning/学習記録/YYYY-MM-DD.md` → セッション内の詳細ログ（問題ごとの正誤、つまずき詳細）
+- `learning/基本情報技術者/学習記録/YYYY-MM-DD.md` → セッション内の詳細ログ（問題ごとの正誤、つまずき詳細）
 - `memory_logs.md` (ルート直下) → プロジェクト全体の長期記憶（方針変更、合意事項、心理状態の変化）
 
 **チェック方法**:
