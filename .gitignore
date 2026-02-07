@@ -23,6 +23,7 @@ desktop.ini
 .DS_Store
 Thumbs.db
 *.lnk
+nul
 
 # エディタ設定
 .vscode/
