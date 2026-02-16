@@ -1,0 +1,16 @@
+No.,正誤,分野名,大分類,中分類,出典,学習日
+1,○,ストラテジ系,システム戦略,システム戦略,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q61.html"",""令和3年免除 問61"")",2026/2/16
+2,○,テクノロジ系,コンピュータシステム,コンピュータ構成要素,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q12.html"",""令和3年免除 問12"")",2026/2/16
+3,×,テクノロジ系,技術要素,ネットワーク,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q34.html"",""令和3年免除 問34"")",2026/2/16
+4,○,テクノロジ系,基礎理論,基礎理論,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q5.html"",""令和3年免除 問5"")",2026/2/16
+5,×,テクノロジ系,技術要素,データベース,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q29.html"",""令和3年免除 問29"")",2026/2/16
+6,×,ストラテジ系,経営戦略,経営戦略マネジメント,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q66.html"",""令和3年免除 問66"")",2026/2/16
+7,○,テクノロジ系,技術要素,セキュリティ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q37.html"",""令和3年免除 問37"")",2026/2/16
+8,○,テクノロジ系,開発技術,ソフトウェア開発管理技術,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q50.html"",""令和3年免除 問50"")",2026/2/16
+9,○,テクノロジ系,開発技術,ソフトウェア開発管理技術,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q48.html"",""令和3年免除 問48"")",2026/2/16
+10,○,テクノロジ系,技術要素,ユーザーインタフェース,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q23.html"",""令和3年免除 問23"")",2026/2/16
+11,○,テクノロジ系,コンピュータシステム,ソフトウェア,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q18.html"",""令和3年免除 問18"")",2026/2/16
+12,×,テクノロジ系,技術要素,セキュリティ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q40.html"",""令和3年免除 問40"")",2026/2/16
+13,×,テクノロジ系,開発技術,システム開発技術,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q46.html"",""令和3年免除 問46"")",2026/2/16
+14,×,マネジメント系,サービスマネジメント,システム監査,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q60.html"",""令和3年免除 問60"")",2026/2/16
+15,○,テクノロジ系,基礎理論,アルゴリズムとプログラミング,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q7.html"",""令和3年免除 問7"")",2026/2/16

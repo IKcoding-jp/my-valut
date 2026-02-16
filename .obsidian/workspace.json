@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1a7077c1c7ba88",
+        "id": "0accf2ea3fdc5120",
         "type": "tabs",
         "children": [
           {
-            "id": "86d6c9f866faaf2e",
+            "id": "d0e2a72524471c5a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "memory_logs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "memory_logs"
             }
           }
         ]
@@ -180,8 +182,32 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "86d6c9f866faaf2e",
+  "active": "d0e2a72524471c5a",
   "lastOpenFiles": [
+    "learning/基本情報技術者/過去問道場データ/report202602160722.csv",
+    "learning/基本情報技術者/過去問道場データ/report202602160713.csv",
+    "memory_logs.md.tmp.8564.1771280724063",
+    "memory_logs.md.tmp.8564.1771280316179",
+    "learning/基本情報技術者/学習計画表.md.tmp.8564.1771280289020",
+    "learning/基本情報技術者/進捗ログ.md.tmp.8564.1771280284604",
+    "learning/基本情報技術者/進捗ログ.md.tmp.8564.1771280281135",
+    "learning/基本情報技術者/進捗ログ.md.tmp.8564.1771280273194",
+    "learning/基本情報技術者/進捗ログ.md.tmp.8564.1771280269031",
+    "learning/基本情報技術者/学習記録/2026-02-17.md",
+    "learning/基本情報技術者/学習記録/2026-02-17.md.tmp.8564.1771280263224",
+    "guided-trace-learning.skill",
+    "projects/maikago/docs/working/20260216_40_go-router/requirement.md",
+    "projects/maikago/docs/working/20260216_40_go-router/testing.md",
+    "projects/maikago/docs/working/20260216_40_go-router/tasklist.md",
+    "projects/maikago/docs/working/20260216_40_go-router/design.md",
+    "memory_logs.md",
+    "CLAUDE.md",
+    "learning/基本情報技術者/学習記録/2026-02-10.md",
+    "learning/基本情報技術者/学習記録/_template_学習記録.md",
+    "learning/基本情報技術者/学習の心得.md",
+    "learning/基本情報技術者/直前対策チェックリスト.md",
+    "learning/基本情報技術者/進捗ログ.md",
+    "learning/基本情報技術者/学習計画表.md",
     "資格同時学習の進め方.md",
     "資格同時学習の進め方 1.md",
     "今日の１日の計画.md",
@@ -193,30 +219,6 @@
     "LINE/2025-12-19-592712236204556939.md",
     "LINE/2025-12-19-592712250482492166.md",
     "見た作品・ゲームリスト.md",
-    "作品リスト.md",
-    "見たい作品リスト.md",
-    "メモ.md",
-    "やりたいこと.md",
-    "私の情報.md",
-    "読書感想_トップ5%社員の読書術.md",
-    "LINE",
-    "04_Resources/ai-prompts-collection.md",
-    "00_Inbox/私の情報.md",
-    "04_Resources/技術書リスト.md",
-    "04_Resources/プロンプト集.md",
-    "02_Projects/やりたいことリスト.md",
-    "LINE/2025-12-12-591686916395500154.md",
-    "LINE/2025-12-12-591710943030018157.md",
-    "LINE/2025-12-12-591710943030018157_1.md",
-    "LINE/2025-12-12-591686895776563861.md",
-    "04_Resources/templates",
-    "05_Archive",
-    "04_Resources",
-    "03_Areas",
-    "02_Projects",
-    "00_Inbox",
-    "Tasks/archive",
-    "Tasks/projects",
-    "Zettelkasten/40_MOC"
+    "作品リスト.md"
   ]
 }

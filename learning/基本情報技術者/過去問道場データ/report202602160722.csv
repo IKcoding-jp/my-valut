@@ -1,0 +1,16 @@
+No.,正誤,分野名,大分類,中分類,出典,学習日
+1,×,テクノロジ系,技術要素,セキュリティ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/01_aki/q38.html"",""令和元年秋期 問38"")",2026/2/16
+2,○,テクノロジ系,技術要素,セキュリティ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q35.html"",""令和3年免除 問35"")",2026/2/16
+3,○,ストラテジ系,経営戦略,ビジネスインダストリ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q74.html"",""令和2年免除 問74"")",2026/2/16
+4,○,テクノロジ系,技術要素,ユーザーインタフェース,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q23.html"",""令和2年免除 問23"")",2026/2/16
+5,×,テクノロジ系,技術要素,ネットワーク,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q30.html"",""令和2年免除 問30"")",2026/2/16
+6,×,テクノロジ系,技術要素,ネットワーク,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q34.html"",""令和2年免除 問34"")",2026/2/16
+7,○,テクノロジ系,技術要素,ネットワーク,"=HYPERLINK(""https://www.fe-siken.com/kakomon/01_aki/q34.html"",""令和元年秋期 問34"")",2026/2/16
+8,○,ストラテジ系,企業と法務,法務,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q79.html"",""令和3年免除 問79"")",2026/2/16
+9,×,テクノロジ系,開発技術,システム開発技術,"=HYPERLINK(""https://www.fe-siken.com/kakomon/01_aki/q47.html"",""令和元年秋期 問47"")",2026/2/16
+10,×,テクノロジ系,コンピュータシステム,システム構成要素,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q13.html"",""令和2年免除 問13"")",2026/2/16
+11,○,テクノロジ系,技術要素,セキュリティ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/01_aki/q41.html"",""令和元年秋期 問41"")",2026/2/16
+12,○,テクノロジ系,コンピュータシステム,ハードウェア,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q20.html"",""令和2年免除 問20"")",2026/2/16
+13,○,ストラテジ系,企業と法務,企業活動,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q69.html"",""令和2年免除 問69"")",2026/2/16
+14,○,テクノロジ系,基礎理論,アルゴリズムとプログラミング,"=HYPERLINK(""https://www.fe-siken.com/kakomon/02_menjo/q7.html"",""令和2年免除 問7"")",2026/2/16
+15,○,テクノロジ系,技術要素,セキュリティ,"=HYPERLINK(""https://www.fe-siken.com/kakomon/03_menjo/q42.html"",""令和3年免除 問42"")",2026/2/16
